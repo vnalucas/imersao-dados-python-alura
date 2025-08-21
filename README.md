@@ -2,17 +2,19 @@ Projeto Análise de Dados
 
 Este projeto consiste em um dashboard interativo criado com Streamlit, Pandas e Plotly, com o objetivo de analisar dados salariais conforme cargo, nível de senioridade, tipo de contrato e porte da empresa na área de dados. A aplicação oferece filtros personalizáveis e gráficos dinâmicos para facilitar a exploração das informações.
 
+Acesse aqui: https://imersao-dados-python-alura-777.streamlit.app/
+
 ✨ Principais Funcionalidades
 
 🔎 Filtros interativos na barra lateral:
 
-Ano
+- Ano
 
-Senioridade
+- Senioridade
 
-Modalidade de contrato
+- Modalidade de contrato
 
-Tamanho da empresa
+- Tamanho da empresa
 
 📌 Indicadores-chave (KPIs):
 
@@ -24,29 +26,29 @@ Número total de registros filtrados
 
 Cargo mais comum entre os selecionados
 
-📉 Visualizações disponíveis:
+📊 Visualizações disponíveis:
 
-📊 Top 10 cargos com maiores salários médios
+- Top 10 cargos com maiores salários médios
 
-📈 Gráfico de distribuição salarial
+- Gráfico de distribuição salarial
 
-🧩 Divisão dos tipos de trabalho (remoto, híbrido, presencial)
+- Divisão dos tipos de trabalho (remoto, híbrido, presencial)
 
-🗺️ Mapa com salários médios de Cientistas de Dados por país
+- Mapa com salários médios de Cientistas de Dados por país
 
-📋 Tabela detalhada com base nos filtros aplicados
+- Tabela detalhada com base nos filtros aplicados
 
 🧰 Tecnologias Aplicadas:
 
-Python 3
+- Python 3
 
-Streamlit – construção da interface web
+- Streamlit – construção da interface web
 
-Pandas – tratamento e análise de dados
+- Pandas – tratamento e análise de dados
 
-Plotly Express – criação de gráficos interativos
+- Plotly Express – criação de gráficos interativos
 
-Conjunto de dados (CSV) hospedado no GitHub
+- Conjunto de dados (CSV) hospedado no GitHub
 
 📚 Fonte dos Dados:
 Os dados utilizados foram extraídos de um repositório público no GitHub em formato CSV. Eles contêm informações salariais de profissionais da área de dados em diferentes países, cargos e regimes de trabalho.
